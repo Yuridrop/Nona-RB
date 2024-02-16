@@ -1,0 +1,24 @@
+Nona:
+
+    config:
+
+        Token  : 
+        Prefix : //
+
+    Nuke:
+
+        Webhook   : True
+      # Threads   : True
+      # Activity  : True
+      # DM        : True
+
+    Misc:
+
+        Creator    : 
+
+            Discord   : coded.ari
+            Instagram : i_live_ina_box
+            Github    : codedddd
+
+        Repository : https://github.com/yuridrop/nona-rb
+        Website    : https://yuridrop.com/pages/discord#nona-rb
